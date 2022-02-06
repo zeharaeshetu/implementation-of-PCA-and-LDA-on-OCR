@@ -1,1 +1,3 @@
 # implementation-of-PCA-and-LDA-on-OCR
+
+As in today’s digital world optical character recognition technologies, use of automatic system for character recognition in physical document has increased. And many of the technologies are insufﬁcient for recognition and classify them correctly due to different styles and handwritings. The main aim of a paper  is to provide implementation of classiﬁcation algorithms to recognize handwritten digits, i.e., 0–9. The scope includes the elementary study of combination methods of different classiﬁers and calculates their performance on the basis of problem of handwritten digit recognition. Here, we are implementing PCA and LDA to recognize handwritten digit. 
